@@ -1,4 +1,5 @@
 public class LC_974 {
+    // Subarrays divisible by k
     static int subarraysDivByK(int[] nums, int k) {
         int[] freq = new int[k];
         freq[0] = 1;
