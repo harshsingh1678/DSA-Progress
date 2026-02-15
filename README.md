@@ -34,6 +34,7 @@ DSA repo to track my progress
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -71,5 +72,10 @@ DSA repo to track my progress
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
