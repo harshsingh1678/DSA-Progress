@@ -38,6 +38,7 @@ DSA repo to track my progress
 | ------- |
 | [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ DSA repo to track my progress
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## String
