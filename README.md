@@ -88,4 +88,8 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/harshsingh1678/DSA-Progress/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
