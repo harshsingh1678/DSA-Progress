@@ -91,5 +91,6 @@ DSA repo to track my progress
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/harshsingh1678/DSA-Progress/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshsingh1678/DSA-Progress/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
