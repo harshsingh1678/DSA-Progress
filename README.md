@@ -59,11 +59,13 @@ DSA repo to track my progress
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
