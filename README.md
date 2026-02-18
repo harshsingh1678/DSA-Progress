@@ -106,4 +106,8 @@ DSA repo to track my progress
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harshsingh1678/DSA-Progress/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/harshsingh1678/DSA-Progress/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshsingh1678/DSA-Progress/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
