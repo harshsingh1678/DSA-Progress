@@ -1,14 +1,14 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
         int rem;
-        StringBuilder sb = new StringBuilder();
+        String res = "";
         while (n != 0) {
             rem = n % 2;
-            sb.append(rem);
+            res = rem + res;
             n /= 2;
         }
-        for (int i = 1; i < sb.length(); i++) {
-            if (sb.charAt(i - 1) == sb.charAt(i))
+        for (int i = 1; i < res.length(); i++) {
+            if (res.charAt(i - 1) == res.charAt(i))
                 return false;
         }
         return true;
