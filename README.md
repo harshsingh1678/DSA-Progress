@@ -56,6 +56,7 @@ DSA repo to track my progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -109,5 +110,6 @@ DSA repo to track my progress
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
