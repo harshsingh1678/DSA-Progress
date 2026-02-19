@@ -29,6 +29,7 @@ DSA repo to track my progress
 | [0142-linked-list-cycle-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
