@@ -50,6 +50,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
@@ -76,6 +77,7 @@ DSA repo to track my progress
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -119,4 +121,8 @@ DSA repo to track my progress
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
