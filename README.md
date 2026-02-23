@@ -122,6 +122,7 @@ DSA repo to track my progress
 | [0595-big-countries](https://github.com/harshsingh1678/DSA-Progress/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/harshsingh1678/DSA-Progress/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harshsingh1678/DSA-Progress/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/harshsingh1678/DSA-Progress/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshsingh1678/DSA-Progress/tree/master/1757-recyclable-and-low-fat-products) |
