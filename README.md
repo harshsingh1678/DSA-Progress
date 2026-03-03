@@ -158,6 +158,7 @@ DSA repo to track my progress
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshsingh1678/DSA-Progress/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -186,6 +187,7 @@ DSA repo to track my progress
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshsingh1678/DSA-Progress/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -204,4 +206,8 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
