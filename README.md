@@ -89,6 +89,7 @@ DSA repo to track my progress
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
