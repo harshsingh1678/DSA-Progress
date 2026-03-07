@@ -142,6 +142,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harshsingh1678/DSA-Progress/tree/master/0868-binary-gap) |
@@ -166,6 +167,7 @@ DSA repo to track my progress
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshsingh1678/DSA-Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshsingh1678/DSA-Progress/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -199,6 +201,7 @@ DSA repo to track my progress
 | [0144-binary-tree-preorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshsingh1678/DSA-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshsingh1678/DSA-Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/harshsingh1678/DSA-Progress/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -224,6 +227,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
