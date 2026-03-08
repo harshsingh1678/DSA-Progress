@@ -18,6 +18,6 @@ class Solution {
         if(left == null) return right;
         if(right == null) return left;
 
-        return root;
+        return root; // left and rigth are not null
     }
 }
