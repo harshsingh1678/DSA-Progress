@@ -85,6 +85,7 @@ DSA repo to track my progress
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -253,6 +254,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
