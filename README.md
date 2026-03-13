@@ -56,6 +56,7 @@ DSA repo to track my progress
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshsingh1678/DSA-Progress/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -100,6 +101,7 @@ DSA repo to track my progress
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
