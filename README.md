@@ -56,6 +56,7 @@ DSA repo to track my progress
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshsingh1678/DSA-Progress/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshsingh1678/DSA-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
