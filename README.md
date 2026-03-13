@@ -26,6 +26,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0141-linked-list-cycle) |
@@ -46,6 +47,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/harshsingh1678/DSA-Progress/tree/master/0056-merge-intervals) |
