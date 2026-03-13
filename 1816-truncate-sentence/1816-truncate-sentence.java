@@ -1,13 +1,13 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        StringBuilder sb = new StringBuilder(s);
+        // StringBuilder sb = new StringBuilder(s);
 
         for (int i = 0; i < s.length(); i++) {
-            if (sb.charAt(i) == ' ') {
+            if (s.charAt(i) == ' ') {
                 k--;
             }
-            if(k == 0) return sb.substring(0,i).toString();
+            if(k == 0) return s.substring(0,i);
         }
-        return sb.toString();
+        return s;
     }
 }
