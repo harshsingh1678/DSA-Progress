@@ -114,6 +114,7 @@ DSA repo to track my progress
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
@@ -140,6 +141,7 @@ DSA repo to track my progress
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -284,4 +286,8 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
