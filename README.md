@@ -67,6 +67,7 @@ DSA repo to track my progress
 | [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ DSA repo to track my progress
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
@@ -186,6 +188,7 @@ DSA repo to track my progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
