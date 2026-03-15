@@ -58,6 +58,7 @@ DSA repo to track my progress
 | [0136-single-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ DSA repo to track my progress
 | [0141-linked-list-cycle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
@@ -182,6 +184,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Tree
 |  |
