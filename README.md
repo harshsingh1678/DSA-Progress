@@ -37,6 +37,7 @@ DSA repo to track my progress
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ DSA repo to track my progress
 | [1816-truncate-sentence](https://github.com/harshsingh1678/DSA-Progress/tree/master/1816-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -294,6 +296,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
