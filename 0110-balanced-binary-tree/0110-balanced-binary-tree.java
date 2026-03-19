@@ -18,21 +18,17 @@ class Solution {
         return dfs(root) != -1;
     }
 
-    private static int dfs(TreeNode root) {
-        if (root == null)
-            return 0;
-        
+    public int dfs(TreeNode root) {
+        if (root == null) return 0;
+
         int leftheight = dfs(root.left);
-        if (leftheight == -1)
-            return -1;
-        
+        if (leftheight == -1) return -1;
+
         int rightheight = dfs(root.right);
-        if (rightheight == -1)
-            return -1;
-        
-        if (Math.abs(leftheight - rightheight) > 1)
-            return -1;
-        
+        if (rightheight == -1) return -1;
+
+        if (Math.abs(leftheight - rightheight) > 1) return -1;
+
         return Math.max(leftheight, rightheight) + 1;
     }
 }
