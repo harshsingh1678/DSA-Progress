@@ -34,6 +34,7 @@ DSA repo to track my progress
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@ DSA repo to track my progress
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
@@ -181,6 +183,7 @@ DSA repo to track my progress
 | [0136-single-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harshsingh1678/DSA-Progress/tree/master/0868-binary-gap) |
@@ -279,6 +282,7 @@ DSA repo to track my progress
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/harshsingh1678/DSA-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
