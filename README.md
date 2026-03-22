@@ -40,6 +40,7 @@ DSA repo to track my progress
 | [0876-middle-of-the-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/harshsingh1678/DSA-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ DSA repo to track my progress
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3643-flip-square-submatrix-vertically](https://github.com/harshsingh1678/DSA-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ DSA repo to track my progress
 | [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshsingh1678/DSA-Progress/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/harshsingh1678/DSA-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
