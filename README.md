@@ -61,6 +61,7 @@ DSA repo to track my progress
 | [0056-merge-intervals](https://github.com/harshsingh1678/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
@@ -295,6 +296,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshsingh1678/DSA-Progress/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Backtracking
