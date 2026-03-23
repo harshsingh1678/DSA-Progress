@@ -132,6 +132,7 @@ DSA repo to track my progress
 | [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3340-check-balanced-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/3340-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
