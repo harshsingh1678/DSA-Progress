@@ -27,6 +27,7 @@ class Solution {
         // just reverse the remaining array to get smallest array
         // becoj we already have large value than it
         reverse(nums, idx + 1, nums.length - 1);
+        return;
     }
 
     private void reverse(int[] arr, int i, int j) {
