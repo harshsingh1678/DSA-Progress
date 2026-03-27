@@ -7,10 +7,9 @@ class Solution {
         reverse(nums, k, nums.length - 1);
     }
 
-    private static void reverse(int[] nums, int left, int right) {
-        int temp;
+    public void reverse(int[] nums, int left, int right) {
         while (left < right) {
-            temp = nums[left];
+            int temp = nums[left];
             nums[left] = nums[right];
             nums[right] = temp;
             left++;
