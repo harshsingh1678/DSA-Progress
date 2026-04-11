@@ -92,6 +92,7 @@ DSA repo to track my progress
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
@@ -123,6 +124,7 @@ DSA repo to track my progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -201,6 +203,7 @@ DSA repo to track my progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshsingh1678/DSA-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshsingh1678/DSA-Progress/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
