@@ -71,6 +71,7 @@ DSA repo to track my progress
 | [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/harshsingh1678/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshsingh1678/DSA-Progress/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshsingh1678/DSA-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -115,6 +116,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/harshsingh1678/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/harshsingh1678/DSA-Progress/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
