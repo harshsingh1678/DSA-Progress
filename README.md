@@ -32,6 +32,7 @@ DSA repo to track my progress
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsingh1678/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshsingh1678/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ DSA repo to track my progress
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsingh1678/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -296,6 +298,7 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsingh1678/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/harshsingh1678/DSA-Progress/tree/master/0450-delete-node-in-a-bst) |
