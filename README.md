@@ -29,6 +29,7 @@ DSA repo to track my progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0142-linked-list-cycle-ii) |
@@ -62,6 +63,7 @@ DSA repo to track my progress
 | [0053-maximum-subarray](https://github.com/harshsingh1678/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshsingh1678/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshsingh1678/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0136-single-number) |
