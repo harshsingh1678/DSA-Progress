@@ -99,6 +99,7 @@ DSA repo to track my progress
 | [0219-contains-duplicate-ii](https://github.com/harshsingh1678/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -133,6 +134,7 @@ DSA repo to track my progress
 | [0020-valid-parentheses](https://github.com/harshsingh1678/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/harshsingh1678/DSA-Progress/tree/master/0696-count-binary-substrings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -150,6 +152,7 @@ DSA repo to track my progress
 | ------- |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/harshsingh1678/DSA-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -327,4 +330,8 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
