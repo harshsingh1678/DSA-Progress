@@ -60,6 +60,7 @@ DSA repo to track my progress
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/harshsingh1678/DSA-Progress/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshsingh1678/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshsingh1678/DSA-Progress/tree/master/0056-merge-intervals) |
@@ -308,6 +309,7 @@ DSA repo to track my progress
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshsingh1678/DSA-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
