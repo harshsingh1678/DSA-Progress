@@ -78,6 +78,7 @@ DSA repo to track my progress
 | [0485-max-consecutive-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/harshsingh1678/DSA-Progress/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harshsingh1678/DSA-Progress/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshsingh1678/DSA-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -317,6 +318,7 @@ DSA repo to track my progress
 | [0450-delete-node-in-a-bst](https://github.com/harshsingh1678/DSA-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshsingh1678/DSA-Progress/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
