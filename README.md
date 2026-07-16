@@ -44,6 +44,7 @@ DSA repo to track my progress
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshsingh1678/DSA-Progress/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@ DSA repo to track my progress
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshsingh1678/DSA-Progress/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshsingh1678/DSA-Progress/tree/master/3719-longest-balanced-subarray-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +183,7 @@ DSA repo to track my progress
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1903-largest-odd-number-in-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +191,7 @@ DSA repo to track my progress
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -337,6 +341,7 @@ DSA repo to track my progress
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshsingh1678/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -346,4 +351,8 @@ DSA repo to track my progress
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
