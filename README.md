@@ -79,6 +79,7 @@ DSA repo to track my progress
 | [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/harshsingh1678/DSA-Progress/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/harshsingh1678/DSA-Progress/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/harshsingh1678/DSA-Progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshsingh1678/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -109,6 +110,7 @@ DSA repo to track my progress
 | [0409-longest-palindrome](https://github.com/harshsingh1678/DSA-Progress/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/harshsingh1678/DSA-Progress/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/harshsingh1678/DSA-Progress/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/harshsingh1678/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshsingh1678/DSA-Progress/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/harshsingh1678/DSA-Progress/tree/master/1980-find-unique-binary-string) |
@@ -193,6 +195,7 @@ DSA repo to track my progress
 | [0088-merge-sorted-array](https://github.com/harshsingh1678/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshsingh1678/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshsingh1678/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/harshsingh1678/DSA-Progress/tree/master/0645-set-mismatch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshsingh1678/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
@@ -220,6 +223,7 @@ DSA repo to track my progress
 | [0191-number-of-1-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harshsingh1678/DSA-Progress/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/harshsingh1678/DSA-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/harshsingh1678/DSA-Progress/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/harshsingh1678/DSA-Progress/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harshsingh1678/DSA-Progress/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/harshsingh1678/DSA-Progress/tree/master/0868-binary-gap) |
